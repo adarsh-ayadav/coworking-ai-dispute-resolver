@@ -191,6 +191,3 @@ This tool provides **advisory recommendations only**. All refund decisions must 
 
 **Adarsh** – [adarshyadav7252@gmail.com](mailto:adarshyadav7252@gmail.com)
 
-## License
-
-Add a license of your choice (for example [MIT](https://choosealicense.com/licenses/mit/)).
